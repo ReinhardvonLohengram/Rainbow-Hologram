@@ -1,4 +1,5 @@
 %% Input data , set parameters
+%% 相位型彩虹全息图
 clear all,
 close all ;
 Ii =imread('1.bmp');% 大小为 256 x256 pix的8位位图
